@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Error: The \$CFILE variable is not set."
+gcc -E $CFILE -o c
