@@ -1,0 +1,3 @@
+#!/bin/bash
+if [ -z "$CFILE" ]; then
+echo "Error: The \$CFILE variable is not set."
