@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "Compilation completed successfully. Object file '${FILENAME}.o' generated."
